@@ -46,4 +46,4 @@ Tutor: Andrew H.
 Guided me through the generate password section in javascript.
 
 ## License
-MIT
+ MIT
